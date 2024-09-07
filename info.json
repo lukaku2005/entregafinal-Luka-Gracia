@@ -1,0 +1,50 @@
+[
+    {
+        "descripcion":"tarjeta gráfica impresionantemente potente que presenta la GPU AD102-300 en la arquitectura Ada Lovelace y viene con 16384 núcleos CUDA para renders 3D de 2520 MHz de 2520 MHz",
+        "nombre":"Tarjeta Grafica 4090",
+        "precio":100000,
+        "imagen":"https://www.tradeinn.com/f/13973/139736606/gigabyte-tarjeta-grafica-rtx-4090-gaming-oc-24gb-gddr6x.webp"
+    },
+    {
+        "descripcion":"es un procesador altamente valorado por su rendimiento en juegos y tareas de productividad",
+        "nombre":"Ryzen 5 5600G",
+        "precio":50000,
+        "imagen":"https://i0.wp.com/hardcorecomputacion.com.ar/wp-content/uploads/2021/07/RYZEN5G1.jpg?fit=933%2C933&ssl=1"
+    },
+    {
+        "descripcion":"Placa base ultraduradera Intel B560 con VRM digital directo de 6+2 fases, diseño PCIe 4.0",
+        "nombre":"Placa madre B560",
+        "precio":20000,
+        "imagen":"https://static.gigabyte.com/StaticFile/Image/Global/da88a91931bfb0cba86d4b99d528d0f4/Product/27181/Png"
+    },
+    {
+        "descripcion":"Como todas las fuentes de alimentación CORSAIR, la CV Series hace exactamente lo que promete: ofrece una alimentación continua a plena capacidad.",
+        "nombre":"Fuente de poder Corsair 750W",
+        "precio":30000,
+        "imagen":"https://www.datasoft.com.ar/Image/0/750_750-023787_01.png"
+    },
+    {
+        "descripcion":"Memoria RAM Kingston de 16GB, ideal para mejorar el rendimiento de tu PC. Ofrece alta velocidad y eficiencia en multitareas, ideal para gaming y aplicaciones exigentes. Compatible con una amplia gama de sistemas",
+        "nombre":"RAM kingston 16GB",
+        "precio":5000,
+        "imagen":"https://www.venex.com.ar/products_images/1649876739_beast2.jpg"
+    },
+    {
+        "descripcion":"Gabinete Sentey X10 con diseño moderno y espacioso. Ofrece excelente flujo de aire, soporte para múltiples ventiladores y refrigeración líquida. Ideal para configuraciones de gaming y estaciones de trabajo avanzadas",
+        "nombre":"Gabinete sentey X10",
+        "precio":3000,
+        "imagen":"https://http2.mlstatic.com/D_Q_NP_690297-MLU54972904480_042023-O.webp"
+    },
+    {
+        "descripcion":"Tarjeta gráfica NVIDIA GTX 1080 Ti, ideal para gaming en alta resolución. Ofrece gran potencia y rendimiento gráfico, compatible con realidad virtual y juegos AAA. Incluye múltiples salidas de video para configuraciones avanzadas",
+        "nombre":"Tarjeta Grafica 1080ti",
+        "precio":50000,
+        "imagen":"https://static.gigabyte.com/StaticFile/Image/Global/62c0b2b60a46145c021a1f64afec3a2a/Product/16867/Png"
+    },
+    {
+        "descripcion":"Sistema de refrigeración líquida eficiente y silencioso, ideal para mantener bajas temperaturas en procesadores de alto rendimiento. Compatible con una amplia variedad de gabinetes y fácil de instalar",
+        "nombre":"Refrigeracion liquida",
+        "precio":75000,
+        "imagen":"https://es.marsgaming.eu/uploads/_thumnails/ml240_960x960.png"
+    }
+]

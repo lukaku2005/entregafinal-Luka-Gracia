@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(222, 195, 247);
+}
+.contenedorTitulo{
+    display: flex;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+}
+.carritoImg{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    transition: 1s;
+}
+.carritoImg:hover{
+    cursor: pointer;
+    width: 50px;
+}
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.contenedorTarjetas{
+    width: 20%;
+    background-color: blueviolet;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    border: black 5px solid;
+    margin: 5px;
+}
+.nombre{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.desc{
+    color: black;
+    font-size: 15px;
+    background-color: white;
+    height: 100px;
+    text-align: center;
+}
+.img1{
+    width: 200px;
+    background-color: white;
+}
+.botonCompra{
+    cursor: pointer;
+}
+
+.contenedorTarjetasCarrito{
+    display: flex;
+    width: auto;
+    background-color: blueviolet;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    border: black 5px solid;
+    margin: 5px;
+    font-size: 15px;
+}
+
+.mas{
+    width: 50px;
+    transition: 1s;
+}
+.mas:hover{
+    width: 70px;
+    cursor: pointer;
+}
+.menos{
+    width: 50px;
+    transition: 1s;
+}
+.menos:hover{
+    width: 30px;
+    cursor: pointer;
+}
+.precio-carrito{
+    background-color: blueviolet;
+    height: 40px;
+    font-size: 40px;
+}
+
+.carrito{
+    display: none; 
+    flex-direction: column;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.carritoImg {
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+}
+#carrito{
+    display: flex;
+}
